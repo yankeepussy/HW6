@@ -1,0 +1,20 @@
+@import url(fonts.css);
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container1 {
+  width: 1488px;
+  height: 740px;
+  background-image: url(../images/1.png);
+  padding: 370px 600px;
+}
+.heading {
+  font-family: "Yanone";
+  font-weight: 700;
+  color: white;
+}
+img {
+  width: 100%;
+}
